@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.PNG" alt="SmartFlow AI Banner" width="100%" />
+  <img src="./src/assets/banner.PNG" alt="SmartFlow AI Banner" width="100%" />
 </p>
 # 🚀 SmartFlow AI - YZTA_HACKATHON_TEAM1
 
