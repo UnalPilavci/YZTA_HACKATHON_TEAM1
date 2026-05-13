@@ -1,7 +1,12 @@
 <p align="center">
   <img src="./src/assets/banner.PNG" alt="SmartFlow AI Banner" width="100%" />
 </p>
-# 🚀 SmartFlow AI - YZTA_HACKATHON_TEAM1
+
+<h1 align="center">SmartFlow AI</h1>
+
+<p align="center">
+  YZTA HACKATHON TEAM1
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Development-orange" alt="Status" />
@@ -14,35 +19,35 @@
 
 ---
 
-## 🌟 About the Project (Overview)
+##  About the Project (Overview)
 
 In today's business world, professionals are overwhelmed by hundreds of emails and dozens of Slack announcements every day. **SmartFlow AI** filters this "information noise" using artificial intelligence, presenting users only with the points that require action. By leveraging the ultra-fast inference power of Groq AI, you can manage all your communications in seconds.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 📧 Intelligent Email Management
+###  Intelligent Email Management
 - **Automated Classification:** Incoming emails are instantly labeled as *Meeting, Task, Urgent Action,* or *Advertisement*.
 - **AI-Powered Summaries:** Condenses long email threads into clear 2-3 sentence summaries that can be read in seconds.
 - **Smart Reply Assistant:** Generates professional draft responses based on the tone and intent of the incoming emails.
 
-### 📅 Calendar and Task Automation
+###  Calendar and Task Automation
 - **Smart Meeting Detection:** If a meeting request with a date and time is detected within an email, the system identifies it and allows you to add it to Google Calendar with a single click.
 - **Task Converter:** Automatically converts requests in emails into a structured To-Do list.
 
-### 💬 Slack and Team Communication Analysis
+###  Slack and Team Communication Analysis
 - **Announcement Tracking:** Analyzes general announcements in Slack channels, extracts tasks relevant to you, and reports them.
 
-### 🤖 Interactive AI Assistant
+###  Interactive AI Assistant
 - **Data-Driven Chat:** A dedicated chatbot that knows your inbox and projects. It provides instant answers to questions like, *"What was discussed in last week's sales meeting?"*
 
-### 📊 Professional Dashboard
+###  Professional Dashboard
 - **Productivity Analysis:** Uses the Recharts library to visualize workload distribution, identify frequent contacts, and present efficiency statistics through interactive graphs.
 
 ---
 
-## 🛠️ Technical Infrastructure (Tech Stack)
+##  Technical Infrastructure (Tech Stack)
 
 - **Frontend:** [React](https://reactjs.org/) + [Vite](https://vitejs.dev/) (Ultra-fast development and runtime performance)
 - **Artificial Intelligence (AI):** [Groq AI](https://groq.com/) (Lightning-fast text analysis using Llama-3-70b/8b models)
@@ -95,7 +100,7 @@ src/
 
 ---
 
-## 📈 Future Roadmap
+##  Future Roadmap
 
 - [ ] **Multi-Channel Integration:** Support for MS Teams and WhatsApp Business.
 - [ ] **Voice Command System:** Voice-to-email and meeting querying via voice assistant.
