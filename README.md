@@ -103,17 +103,13 @@ src/
 
 ## 👥 The Team
 
-**YZTA_HACKATHON_TEAM1**
-- **Ünal Pilavcı** - [LinkedIn](www.linkedin.com/in/ünal-p-a7bb2a24a)
+- **Ünal Pilavcı** - [LinkedIn](https://www.linkedin.com/in/%C3%BCnal-p-a7bb2a24a)
 - **Samira Mamysheva** - [LinkedIn](https://www.linkedin.com/in/samira-mamysheva-1b1201336/)
 - **Ezgisu Badak** - [LinkedIn](https://www.linkedin.com/in/ezgisu-badak-a2804820b/)
 - **Yiğit Pakçe** - [LinkedIn](https://www.linkedin.com/in/yigit-pakce/)
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 <p align="center">
